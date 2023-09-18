@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using System.Reflection;
+[assembly:AssemblyVersion("1.0.0.0")]
 namespace Day2
 {
     public class userOrder

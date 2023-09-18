@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mega Store\\.nuget\\packages\\": {}
+    "C:\\Users\\nnora\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\iti\\net track\\.net track\\adv c#\\Day2\\Day2\\Day2.csproj",
+      "projectUniqueName": "C:\\Users\\nnora\\OneDrive\\Desktop\\New folder (4)\\D2Repo2\\Day2\\Day2.csproj",
       "projectName": "Day2",
-      "projectPath": "D:\\iti\\net track\\.net track\\adv c#\\Day2\\Day2\\Day2.csproj",
-      "packagesPath": "C:\\Users\\Mega Store\\.nuget\\packages\\",
-      "outputPath": "D:\\iti\\net track\\.net track\\adv c#\\Day2\\Day2\\obj\\",
+      "projectPath": "C:\\Users\\nnora\\OneDrive\\Desktop\\New folder (4)\\D2Repo2\\Day2\\Day2.csproj",
+      "packagesPath": "C:\\Users\\nnora\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nnora\\OneDrive\\Desktop\\New folder (4)\\D2Repo2\\Day2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mega Store\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nnora\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
